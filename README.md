@@ -1,11 +1,13 @@
 ```python
 # vars
 name = "Sulub"
-year = "First year"
+year = "First Year"
 university = "York University"
 
-# intro
-print(f"My name is {name}. I'm a {year} CS student at {university}.")
+# Skills - Languages & Frameworks
+languages = ["PHP", "Java", "JavaScript", "Python"]
+frameworks = ["Node.js", "React"]
+version_control = ["Git"]
 # ↓ Connect with me 
 ```
 

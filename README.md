@@ -4,7 +4,7 @@ name = "Sulub"
 year = "First Year"
 university = "York University"
 
-# Skills - Languages & Frameworks
+# skills
 languages = ["PHP", "Java", "JavaScript", "Python"]
 frameworks = ["Node.js", "React"]
 version_control = ["Git"]

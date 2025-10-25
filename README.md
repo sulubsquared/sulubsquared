@@ -1,14 +1,14 @@
 ```python
 # vars
 name = "Sulub"
-year = "First Year"
+year = "Second Year"
 university = "York University"
 
 # skills
-languages = ["PHP", "Java", "JavaScript", "Python"]
-frameworks = ["Node.js", "React"]
+languages = ["PHP", "Java", "JavaScript", "Python", "HTML", "CSS"]
+frameworks = ["Node.js", "React", "Django]
 version_control = ["Git"]
-# ↓ Connect with me 
+# ↓ connect with me 
 ```
 
 <p align="left">

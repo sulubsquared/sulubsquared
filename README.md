@@ -6,7 +6,7 @@ university = "York University"
 
 # skills
 languages = ["PHP", "Java", "JavaScript", "Python", "HTML", "CSS"]
-frameworks = ["Node.js", "React", "Django]
+frameworks = ["Node.js", "React", "Django"]
 version_control = ["Git"]
 # ↓ connect with me 
 ```
